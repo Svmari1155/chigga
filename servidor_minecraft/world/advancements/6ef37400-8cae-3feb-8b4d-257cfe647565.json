@@ -19,9 +19,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-27 23:51:48 +0000",
       "log_spam_fixer": "2025-06-27 23:42:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -86,6 +87,12 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-27 23:42:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lush_caves": "2025-06-27 23:50:39 +0000"
     },
     "done": false
   },
